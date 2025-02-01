@@ -1,0 +1,1 @@
+newsapi = "098aa5cbc54340e6939286bd1bd022d2"
